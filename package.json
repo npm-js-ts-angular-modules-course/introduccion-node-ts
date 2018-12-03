@@ -1,0 +1,21 @@
+{
+  "name": "introduccion-node-ts",
+  "version": "1.0.0",
+  "description": "Introducción a Node Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm-js-ts-angular-modules-course/introduccion-node-ts.git"
+  },
+  "keywords": [],
+  "author": "Anartz Mugika Ledo <mugan86@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/npm-js-ts-angular-modules-course/introduccion-node-ts/issues"
+  },
+  "homepage": "https://github.com/npm-js-ts-angular-modules-course/introduccion-node-ts#readme"
+}
